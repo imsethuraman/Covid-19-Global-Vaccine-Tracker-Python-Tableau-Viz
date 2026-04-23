@@ -3,6 +3,9 @@ This repository provides a comprehensive and up-to-date global vaccine tracker f
 
 Tableau Link: https://public.tableau.com/views/Covid-19GlobalVaccineTracker_16880581249130/Covid-19?:language=en-GB&:display_count=n&:origin=viz_share_link
 
+<img width="1280" height="720" alt="Covid-19 Global Vaccine Tracker" src="https://github.com/user-attachments/assets/dd510a06-287e-400b-b44b-ec87d3e78267" />
+
+
 Key Features:
 
 Tableau and Python-based Covid-19 global vaccine tracker.
